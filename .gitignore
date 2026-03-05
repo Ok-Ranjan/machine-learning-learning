@@ -5,8 +5,8 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (optional for large files)
-# data/processed/
+data/
+.csv
 
 # OS
 .DS_Store
