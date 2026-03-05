@@ -5,7 +5,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (optional for large files)
+Data/
 # data/processed/
 
 # OS
