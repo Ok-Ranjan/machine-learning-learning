@@ -6,3 +6,17 @@ __pycache__/
 *.pkl
 *.pt
 *.pth
+*.pyd
+*.pyo
+
+# ==============================
+# Virtual Environments
+.venv/
+.env/
+
+# ==============================
+# FOR PROJECTS
+runs/
+.gif
+.npy
+.log
