@@ -1,0 +1,8 @@
+gymnasium # RL environment
+flappy-bird-gymnasium # Flappy Bird env
+torch   # Deep Learning
+pyyaml  # read parameters.yml
+imageio # GIF generation
+pygame  # game rendering
+matplotlib  # plotting graphs
+numpy   # data handling
