@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+jinja2
+python-multipart
+pyngrok # only for collab, not for production
